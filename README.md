@@ -1,7 +1,7 @@
 # dyadclust
-Linear regression using dyadic clustering Use dyadclust With STATA 18
+Linear regression using dyadic clustering Use dyadclust With STATA 19
 
-Estimating cluster-robust standard errors for dyadic data Use dyadclust With STATA 18
+Estimating cluster-robust standard errors for dyadic data Use dyadclust With STATA 19
 
 Olah Data Semarang
 
