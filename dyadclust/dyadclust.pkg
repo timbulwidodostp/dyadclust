@@ -1,4 +1,4 @@
-D 'dyadclust': Linear regression using dyadic clustering Use dyadclust With STATA 18
+D 'dyadclust': Linear regression using dyadic clustering Use dyadclust With STATA 19
 D
 F _cmd_list_runner.ado
 F _seeded_cmd_wrapper.ado
